@@ -21,7 +21,6 @@
    table,tbody,tr,td,th,caption{
       display: block;
    }
-   
    thead,h1 {
       display: none;
    }
@@ -31,6 +30,7 @@
       font-size: 1.5em;
       line-height: 2em;
    }
+   
    td{
       border: 1px dotted gray;
       color: rgb(11,12,145);
