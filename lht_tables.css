@@ -73,7 +73,8 @@
       table-layout: fixed;
       width: 85%;
     }
-    th, td {
+    
+   th, td {
       border: 1px solid gray;
       font-size: 0.85em;
       font-weight: normal;
