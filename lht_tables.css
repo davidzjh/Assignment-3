@@ -43,7 +43,7 @@
       background-color: rgb(255,235,178);
       border: 2px solid gray;
    }
-   
+
    td::before{
       content: attr(data-date);
       position: absolute;
@@ -73,7 +73,6 @@
       table-layout: fixed;
       width: 85%;
     }
-
     th, td {
       border: 1px solid gray;
       font-size: 0.85em;
