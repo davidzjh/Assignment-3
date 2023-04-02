@@ -21,6 +21,7 @@
    table,tbody,tr,td,th,caption{
       display: block;
    }
+   
    thead,h1 {
       display: none;
    }
