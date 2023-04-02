@@ -22,6 +22,7 @@ article {
    widows: 2;
    orphans: 2;
  }
+ 
  article h1 {
    column-span: all;
  }
