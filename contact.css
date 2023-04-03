@@ -1,0 +1,40 @@
+.contact-container {
+  width: 100%;
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0px auto; /* Updated margin-top from 0 to 40px */
+  padding: 20px;
+
+
+  
+  
+  }
+  
+  .contact-container h2 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .contact-container input[type="text"],
+  .contact-container input[type="email"],
+  .contact-container textarea {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  .contact-container button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  

@@ -14,12 +14,17 @@
 
 /* Basic styles to be used with all devices and under all conditions */
 
-article, aside, figcaption, figure,
+/* article, aside, figcaption, figure,
 footer, header, main, nav, section { 
+   display: block;
+} */
+
+
+header, nav { 
    display: block;
 }
 
-address, article, aside, blockquote, body, cite, 
+/* address, article, aside, blockquote, body, cite, 
 div, dl, dt, dd, em, figcaption, figure, footer, 
 h1, h2, h3, h4, h5, h6, header, html, img, 
 li, main, nav, nav a, ol, p, section, span, ul,
@@ -32,8 +37,19 @@ table, tr, td, th, col, colgroup {
    -webkit-box-sizing: border-box;
    -moz-box-sizing: border-box;
    box-sizing: border-box;  
-}
+} */
 
+ body, header,footer,html, img, 
+li, nav, nav a, ol, ul {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   font-size: 100%;
+   background: transparent;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;  
+}
 
 /* Set the default page element styles */
 

@@ -1,0 +1,40 @@
+.resume-container {
+    width: 100%;
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .resume-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .resume-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .resume-container th,
+  .resume-container td {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .resume-container th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .resume-container ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .resume-container li {
+    margin-bottom: 10px;
+  }
+  
+  

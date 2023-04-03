@@ -1,0 +1,37 @@
+.skills-container {
+    width: 100%;
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .skills h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .skills {
+    width: 100%;
+  }
+  
+  .skill {
+    margin-bottom: 20px;
+  }
+  
+  .skill p {
+    margin-bottom: 5px;
+  }
+  
+  .skill-bar {
+    background-color: #f3f3f3;
+    border: 1px solid #e3e3e3;
+    height: 20px;
+    width: 100%;
+  }
+  
+  .skill-level {
+    background-color: #4caf50;
+    height: 100%;
+    width: 0;
+  }
+  
